@@ -7,4 +7,4 @@ src = "src"
 [output.html]
 site-url = "/Post-Quantum-Cryptography/"
 git-repository-url = "https://github.com/cloudstreet-dev/Post-Quantum-Cryptography"
-edit-url-template = "https://github.com/cloudstreet-dev/Post-Quantum-Cryptography/edit/main/{path}"
+edit-url-template = "https://github.com/cloudstreet-dev/Post-Quantum-Cryptography/edit/main/src/{path}"
